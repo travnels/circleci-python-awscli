@@ -2,8 +2,9 @@
 
 ### Intro
 This image is based on [CircleCI's Python image](https://hub.docker.com/r/circleci/python/). Packages include
-- Python: 3.6.8
-- AWS CLI: 1.16.82
+- Python: 3.7.10
+- AWS CLI: 1.19.91
+- botocore: 1.20.91
 
 ### Build image
 ```
